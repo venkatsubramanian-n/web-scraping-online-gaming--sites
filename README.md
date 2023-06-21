@@ -16,4 +16,4 @@ Libraries to be used in this:-
 * Beautiful Soup
 * Pandas
 
-Check out the Jupyter notebook here: [https://jovian.com/venkatasubramanian-natesan/webscraping-of-gaming-sites](url)
+Check out the Jupyter notebook here: https://jovian.com/venkatasubramanian-natesan/webscraping-of-gaming-sites
