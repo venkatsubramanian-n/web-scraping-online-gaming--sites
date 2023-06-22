@@ -1,5 +1,7 @@
 # WebScraping of Gaming Sites 
 
+Check out the Jupyter notebook here: https://jovian.com/venkatasubramanian-natesan/webscraping-of-gaming-sites
+
 Introduction:
 Y8.com is home for gamers on any device. Play phone games or get rich 3D graphics on desktops by playing WebGL Games. Otherwise, if your preference is casual 2D worlds, then HTML5 games will suit you. Founded in 2006, Y8.com is a game development site and a growing community that caters to thousands of free games formats.
 
@@ -15,5 +17,3 @@ Libraries to be used in this:-
 * Requests
 * Beautiful Soup
 * Pandas
-
-Check out the Jupyter notebook here: https://jovian.com/venkatasubramanian-natesan/webscraping-of-gaming-sites
